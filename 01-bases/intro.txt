@@ -1,0 +1,19 @@
+**************************************************
+                Introduction
+**************************************************
+
+** Définition PHP:
+
+PHP = Hypertext Preprocessor est un langage de programmation de script, open source, spécialement conçu pour le développement de site web.
+
+c'est un langage interprété coté serveur.
+
+EX/ pour une créer 1 page web avec formulaire, il y a :
+- HTML / CSS / JS coté navigateur (client)
+- PHP / SQL coté serveur
+
+PHP récupére les données du formulaire. le controle du formulaire est effectué. on interroge la BDD (SQL)
+
+** Définition serveur HTTP:
+
+la fonction principale d'un serveur ou encore appelé HTTP est de stocker et de délivrer des pages web en répondant à une requête HTTP. Le protocole de communication Hypertext Transfert Protocol (HTTP) permet de dialoguer avec le logiciel client, généralement un navigateur web.

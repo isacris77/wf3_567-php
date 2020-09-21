@@ -1,0 +1,6 @@
+MEMO
+
+1- Connexion à la BDD
+2- Requete SQL
+3- fetch + while, ou fetchall + foreach
+4- Affichage 

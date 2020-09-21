@@ -1,0 +1,12 @@
+PHP 4/10
+
+- Les superglobales :
+    - GET relecture exercice
+    - POST + exercice 
+    - écrire dans un fichier txt sur le serveur
+    - COOKIE
+    - SESSION
+
+- Bases : introduction aux objets 
+
+- PDO : connexion à la BDD
